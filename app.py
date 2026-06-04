@@ -6,7 +6,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌐 Streamlit Web Interface")
+st.title("🌐 Streamlit Web Interface vikas mishra")
 
 st.sidebar.header("Navigation")
 page = st.sidebar.selectbox(
